@@ -13,7 +13,7 @@ export default function BalanceCard(props) {
   };
 
   return (
-    <div className="flex flex-col justify-center items-center p-4">
+    <div className="md:w-1/2 w-full flex flex-col justify-center items-center p-4">
       <div className="bg-gray-50 text-gray-700 w-full max-w-xl flex flex-col rounded-xl shadow-lg p-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
